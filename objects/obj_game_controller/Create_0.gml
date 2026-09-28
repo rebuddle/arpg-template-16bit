@@ -1,0 +1,2 @@
+// variables
+global.pause = false;
